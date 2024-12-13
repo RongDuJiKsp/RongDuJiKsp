@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/RongDuJiKsp?logo=github&style=for-t
 
 ![profile-detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RongDuJiKsp)
 
-![RongDuJiKsp's GitHub | Stats](https://stats.quine.sh/RongDuJiKsp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RongDuJiKsp)
+![RongDuJiKsp's GitHub | Stats](https://stats.quine.sh/RongDuJiKsp/github?theme=dark)]
 
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RongDuJiKsp)
 
@@ -44,4 +44,4 @@ src="https://img.shields.io/github/followers/RongDuJiKsp?logo=github&style=for-t
 ### More Codes
 
 #### Leetcode
-![](https://stats.justsong.cn/api/leetcode?username=rdjksp&cn=true)
+![lc](https://leetcard.jacoblin.cool/rdjksp?ext=activity&site=cn)
