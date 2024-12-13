@@ -6,8 +6,8 @@ Code smarter, automate better, live easier!
 
 🌟 技术爱好者   
 🚀 技术栈：   
-          🛠️ 前端：React | React Native | Next.js | TypeScript 
-          🔧 后端：Node.js | NestJS | Typeorm | Rust | Axum | SeaOrm
+🛠️ 前端：React | React Native | Next.js | TypeScript   
+🔧 后端：Node.js | NestJS | Typeorm | Rust | Axum | SeaOrm  
 
 * 🌍  I'm based in China
 * ✉️  You can contact me at [rdjksp@gmail.com](mailto:rdjksp@gmail.com)
