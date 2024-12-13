@@ -31,13 +31,9 @@ src="https://img.shields.io/github/followers/RongDuJiKsp?logo=github&style=for-t
 
 ![profile-detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RongDuJiKsp)
 
-![RongDuJiKsp's GitHub | Stats](https://stats.quine.sh/RongDuJiKsp/github?theme=dark)]
+![RongDuJiKsp's GitHub | Stats](https://stats.quine.sh/RongDuJiKsp/github?theme=dark)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RongDuJiKsp)
 
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RongDuJiKsp)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RongDuJiKsp)
-
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RongDuJiKsp)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RongDuJiKsp) ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RongDuJiKsp)
 
 ![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RongDuJiKsp&utcOffset=8)
 
