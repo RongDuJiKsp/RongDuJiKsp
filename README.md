@@ -29,11 +29,12 @@ src="https://img.shields.io/github/followers/RongDuJiKsp?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RongDuJiKsp"><img src="https://github-readme-stats.vercel.app/api?username=RongDuJiKsp&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RongDuJiKsp's GitHub stats" /></a>
+![me](https://profile-summary-for-github.com/user/RongDuJiKsp)
 
 [![RongDuJiKsp's GitHub | Stats](https://stats.quine.sh/RongDuJiKsp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RongDuJiKsp)
 
-<a href="https://github.com/RongDuJiKsp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RongDuJiKsp&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RongDuJiKsp)
 
 ### More Codes
 
