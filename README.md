@@ -29,12 +29,17 @@ src="https://img.shields.io/github/followers/RongDuJiKsp?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-![me](https://profile-summary-for-github.com/user/RongDuJiKsp)
+![profile-detail](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RongDuJiKsp)
 
-[![RongDuJiKsp's GitHub | Stats](https://stats.quine.sh/RongDuJiKsp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RongDuJiKsp)
+![RongDuJiKsp's GitHub | Stats](https://stats.quine.sh/RongDuJiKsp/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RongDuJiKsp)
 
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RongDuJiKsp)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RongDuJiKsp)
+
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RongDuJiKsp)
+
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RongDuJiKsp&utcOffset=8)
 
 ### More Codes
 
