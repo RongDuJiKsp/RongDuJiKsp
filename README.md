@@ -1,7 +1,7 @@
 Hi 👋 My name is RongDuJiKsp
 ============================
 
-Code smarter, automate better, live easier!
+
 -------------------------------------------
 
 <a href="https://www.github.com/RongDuJiKsp" target="_blank" rel="noreferrer"><img
